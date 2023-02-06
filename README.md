@@ -14,5 +14,5 @@ This new assignment consists of two technical analysis deliverables and a writte
 - Deliverable 3: A Written Report on the Analysis (README.md)
 
 ## Resources
-- Data Source: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) --> [Sports Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Sports_v1_00.tsv.gz)
+- Data Source: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) --> [Pet Products Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz)
 - Sofrware: [Google Colaboratory](https://colab.research.google.com), [Visual Studio Code 1.70.2](https://code.visualstudio.com), [PostgreSQL 15.1](https://www.postgresql.org/docs/current/release-15-1.html), [pgAdmin 4](https://www.pgadmin.org/download/)
