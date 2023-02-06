@@ -12,7 +12,7 @@ This assignment consists of two technical analysis deliverables and a written re
 
 ## Resources
 - Data Source: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) --> [Pet Products Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz)
-- Sofrware: [Google Colaboratory](https://colab.research.google.com), [PySpark 3.2.3](https://spark.apache.org/docs/3.2.3/api/python/getting_started/install.html), [Visual Studio Code 1.70.2](https://code.visualstudio.com), [pgAdmin 4](https://www.pgadmin.org/download/) / [PostgreSQL 15.1](https://www.postgresql.org/docs/current/release-15-1.html), 
+- Sofrware: [Google Colaboratory](https://colab.research.google.com), [PySpark 3.2.3](https://spark.apache.org/docs/3.2.3/api/python/getting_started/install.html), [Visual Studio Code 1.70.2](https://code.visualstudio.com), [pgAdmin 4](https://www.pgadmin.org/download/) / [PostgreSQL 15.1](https://www.postgresql.org/docs/current/release-15-1.html)
 
 ## Results 
 - To view our ETL process --> [Click Here](https://github.com/abrodyyy/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
